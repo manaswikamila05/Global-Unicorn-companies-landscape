@@ -17,9 +17,9 @@ Performed data cleaning and wrangling on the dataset.
 - Cleaned **Valuation** and **Funding** columns and cast it to float type
 - Corrected the spelling mistake for "Artificial Intelligence" in **Industry** column
 - Duplicate entries of **Bolt** company were identified. They were made unique by appending the country the company was founded in.
-- Exploded the "Select Investors" column into individual rows
+- Exploded the **Select Investors** column into individual rows
 - Derived the year in which the company reached $1 billion in valuation
-- Derived the ROI metric-> Valuation-to-funding ratio
+- Derived the **ROI** metric-> Valuation-to-funding ratio
 - Derived the time taken to reach $1 billion in valuation
 
 # :bar_chart: Visualization
