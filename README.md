@@ -9,6 +9,13 @@ More information about Maven Unicorn Challenge [here](https://www.mavenanalytics
 
 
 # :bookmark: Key findings
+- Fintech, E-commerce and Internet Software industries have the highest number of Unicorn companies, valuation and funding.
+- Top five most valued unicorns are Bytedance, SHEIN, SpaceX, Stripe and Klarna. Of the five, four Unicorn companies belong to United States and China.
+- United States has the highest number of Unicorns and the highest number of Unicorns are headquartered in San Franscisco.
+- Internet Software, E-commerce and Fintech Unicorns are the highest in North America, Asia and Europe regions respecively.
+- 2021 was the year of Unicorns, 54% of them attained the Unicorn status in 2021. AI, E-commerce, Ed-tech, Fintech and Health industries boomed in 2021 inspite of the pandemic.
+- Sequoia Capital China, Tiger Global management and Tencent Holdings are the most popular investors.
+- On average, it takes 7 years to become a unicorn. Some companies have become unicorns within a year of founding!
 
 
 # :memo: Data wrangling
