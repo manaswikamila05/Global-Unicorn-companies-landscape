@@ -27,3 +27,4 @@ Produced a 1-pager dashboard using Tableau.
 
 Tableau: [Unicorn Companies 2022](https://public.tableau.com/app/profile/manaswi.kamila/viz/UnicornCompanies2022/UnicornsDashboard)
 
+![Unicorns Dashboard](https://user-images.githubusercontent.com/77529445/167242933-7521d12e-187f-4b8b-b1e1-ee0cdb2e5ac4.png)
